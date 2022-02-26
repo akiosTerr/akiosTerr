@@ -9,7 +9,7 @@
 - Node Back-end Developer
 - ESP32/ESP8266 C++ IOT Developer
 - Deeply scarred sys admin
-- Python automation entusiast 
+- Python automation enthusiast 
 - Newbie Data Scientist 
 - Former game developer & 3d Modeler
 
