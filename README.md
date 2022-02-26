@@ -11,7 +11,7 @@
 - Deeply scarred sys admin
 - Python automation enthusiast 
 - Newbie Data Scientist 
-- Former game developer & 3d Modeler
+- Former game developer & 3D Modeler
 
 *The functional way is the right way!*
 
