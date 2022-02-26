@@ -13,7 +13,7 @@
 - Newbie Data Scientist 
 - Former game developer & 3d Modeler
 
-*Remember, the functional way is the right way!*
+*The functional way is the right way!*
 
 <!--
 **akiosTerr/akiosTerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
