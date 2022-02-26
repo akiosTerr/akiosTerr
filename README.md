@@ -1,4 +1,19 @@
-### Hi there 👋
+<!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> -->
+
+
+## The Javascript arch mage
+
+
+
+- React & Vue Front-end developer
+- Node Back-end Developer
+- ESP32/ESP8266 C++ IOT Developer
+- Deeply scarred sys admin
+- Python automation entusiast 
+- Newbie Data Scientist 
+- Former game developer & 3d Modeler
+
+*Remember, the functional way is the right way!*
 
 <!--
 **akiosTerr/akiosTerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
