@@ -6,8 +6,8 @@
 
 
 - React & Vue Front-end developer
-- Node Back-end Developer
-- ESP32/ESP8266 C++ IOT Developer
+- Node Back-end developer
+- ESP32/ESP8266 C++ IOT developer
 - Deeply scarred sys admin
 - Python automation enthusiast 
 - Newbie Data Scientist 
