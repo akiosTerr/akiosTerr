@@ -5,7 +5,7 @@
 
 
 - React & Vue Front-end developer
-- Node Back-end developer
+- Node.js Back-end developer
 - ESP32/ESP8266 C++ IOT developer
 - Python automation enthusiast 
 - Newbie Data Scientist 
