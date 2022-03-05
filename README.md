@@ -29,11 +29,13 @@
 - React
 - Nest
 - Express
+- Mongoose
 - Sass
 - Selenium
 - Redux
 - RxJs
 - Lodash
+
 
 
 
