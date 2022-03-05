@@ -1,4 +1,4 @@
-## The Typescript Arch Mage 
+## The Typescript Arch Mage :mage:	
 *The functional way is the right way!*
 
 <a href="https://www.linkedin.com/in/akiosdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
