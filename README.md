@@ -1,11 +1,20 @@
 ## The Typescript Arch Mage :mage:	
-*The functional way is the right way!*
+*The functional way is the right way!*  
 
-<a href="https://www.linkedin.com/in/akiosdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://themetadeveloper.com/" target="_blank"><img src="https://img.shields.io/badge/-check%20my%20blog-darkblue?style=for-the-badge" />
-</a>
 
+
+<a href="https://www.linkedin.com/in/akiosdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://themetadeveloper.com/" target="_blank"><img src="https://img.shields.io/badge/-check%20my%20blog-darkblue?style=for-the-badge" /></a>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 
 
 
@@ -18,6 +27,7 @@
 
 
 ## Favorite Programming Langues
+
 
 - Typescript/Javascript
 - Python
