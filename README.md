@@ -29,6 +29,7 @@
 - React
 - Nest
 - Express
+- Sass
 - Selenium
 - Redux
 - RxJs
