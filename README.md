@@ -1,6 +1,6 @@
 <h1 align="center">The Typescript Mage :mage:</h1>
 
-<p align="center"><i>callback hell? call the mage back!</i></p>
+<p align="center"><i>callback hell? call back to the mage</i></p>
 
 
 <div align="center">
