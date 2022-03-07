@@ -34,7 +34,7 @@
 - Former game developer & 3D Modeler
 
 
-## Favorite Programming Langues
+## Favorite Programming Languages
 
 
 - Typescript/Javascript
