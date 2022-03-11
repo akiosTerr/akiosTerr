@@ -1,4 +1,4 @@
-<h1 align="center">The Typescript Mage :mage:</h1>
+<h1 align="center">The Typescript Mage :mage:</h1> 
 
 <p align="center"><i>callback hell? call back to the mage</i></p>
 
