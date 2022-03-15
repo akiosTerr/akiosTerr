@@ -55,10 +55,10 @@
 - RxJs
 - Lodash
 
-<h2 align="center"> Faith</h2>
+<!-- <h2 align="center"> Faith</h2>
 <p align="center">
 <img width="320" src="https://external-preview.redd.it/S7XIJVx9knCrFGYm_bxBgx-ajqxDAT7LAdPPcwJB1sM.jpg?width=640&crop=smart&auto=webp&s=a054411c4fc71cf506903be35ab9a8f39db9d691" />
-</p>
+</p> -->
 
 
 
