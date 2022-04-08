@@ -1,6 +1,6 @@
 <h1 align="center">The Typescript Mage :mage:</h1>   
 
-<p align="center"><i>better call the mage</i></p>
+<p align="center"><i>better call the mλge</i></p>
 
 
 
