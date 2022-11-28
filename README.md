@@ -6,7 +6,7 @@
 
 <div align="center">
   <a  href="https://www.linkedin.com/in/akiosdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />     </a>
-  <a href="https://themetadeveloper.com/" target="_blank"><img src="https://img.shields.io/badge/-my%20blog-purple?style=for-the-badge" /></a>  
+<!--   <a href="https://themetadeveloper.com/" target="_blank"><img src="https://img.shields.io/badge/-my%20blog-purple?style=for-the-badge" /></a>   -->
 </div>
 <hr/>
 <div align="center">
