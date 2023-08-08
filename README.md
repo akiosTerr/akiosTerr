@@ -26,7 +26,7 @@
 
 ## About me
 
-- React & Vue Front-end developer
+- Front-end engineer
 - Node.js Back-end developer
 - Smart device developer (ESP32/ESP8266 C++)
 - Python automation enthusiast 
