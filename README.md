@@ -1,7 +1,6 @@
-<h1 align="center">The Typescript Mage :mage:</h1>   
+<h1 align="center">Luiz</h1>   
 
-<p align="center"><i>better call the mλge</i></p> 
-
+<p align="center"><i>software engineering</i></p> 
 
 
 <div align="center">
