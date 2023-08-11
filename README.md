@@ -24,34 +24,11 @@
 
 <hr/>
 
-## About me
+## About Luiz
 
-- Front-end engineer
-- Node.js Back-end developer
-- Smart device developer (ESP32/ESP8266 C++)
-- Python automation enthusiast 
-- Former game developer & 3D Modeler
+Front-end engineer plus bonus extra experience with Node, Python, C++, Arduino, IOT, C#, and 3D Modeling 
+Works full-time with React, Vue, and Angular 
 
-
-## Favorite Programming Languages
-
-
-- Typescript/Javascript
-- Python
-- C++
-- C#
-
-## Favorite Libraries
-
-- React
-- Nest
-- Express
-- Mongoose
-- Sass
-- Selenium
-- Redux
-- RxJs
-- Lodash
 
 <!-- <h2 align="center"> Faith</h2>
 <p align="center">
