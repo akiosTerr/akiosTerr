@@ -26,7 +26,7 @@
 
 ## About Luiz
 
-Front-end engineer plus bonus extra experience with Node, Python, C++, Arduino, IOT automation, C#, and 3D Modeling                                                       
+Front-end engineer plus bonus extra experience with Node, Python, C++, Arduino, IOT automation, C# for game dev, and 3D Modeling                                                       
 Works full-time with React, Vue, and Angular 
 
 
