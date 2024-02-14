@@ -2,11 +2,12 @@
 
 <p align="center"><i>software engineering</i></p> 
 
-
 <div align="center">
   <a  href="https://www.linkedin.com/in/akiosdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />     </a>
 <!--   <a href="https://themetadeveloper.com/" target="_blank"><img src="https://img.shields.io/badge/-my%20blog-purple?style=for-the-badge" /></a>   -->
 </div>
+
+
 <hr/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
@@ -20,6 +21,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" />
 </div>
+
+<hr/>
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akiosTerr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akiosTerr&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 <hr/>
 
