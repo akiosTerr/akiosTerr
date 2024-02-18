@@ -33,8 +33,7 @@
 
 ## About Luiz
 
-Front-end engineer plus bonus extra experience with Node, Python, C++, Arduino, IOT automation, C# for game dev, and 3D Modeling                                                       
-Works full-time with React, Vue, and Angular 
+A passionate web developer specializing in front-end development, with a unique blend of expertise in game development and electronics engineering.
 
 
 <!-- <h2 align="center"> Faith</h2>
