@@ -33,7 +33,7 @@
 
 ## About Luiz
 
-A passionate web developer specializing in front-end development, with a unique blend of expertise in game development and electronics engineering.
+A passionate full stack web developer, with a unique blend of expertise in game development and electronics engineering.
 
 
 <!-- <h2 align="center"> Faith</h2>
