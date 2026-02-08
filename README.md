@@ -33,7 +33,7 @@
 
 ## About Luiz
 
-A full stack web developer that loves building tools working in all departments from devops to frontend engineering.
+A full stack web developer that loves building tools from scratch working on infrastructure to frontend engineering.
 
 
 <!-- <h2 align="center"> Faith</h2>
